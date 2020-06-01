@@ -1,0 +1,7 @@
+@pcmanfm --desktop --profile LXDE-pi
+
+@xset s noblank
+@xset s off
+@xset -dpms
+
+/home/pi/run.sh
